@@ -8,7 +8,7 @@ public class SomarNumeros {
 		double num1 = input.nextDouble();
 		System.out.println("Por Favor digite outro numero: ");
 		double num2 = input.nextDouble();
-		Double resultado = Double.valueOf(num1 + num2);
+		double resultado = num1 + num2;
 		System.out.printf("Resultado: %6.2f", resultado);
 		input.close();
 	}
