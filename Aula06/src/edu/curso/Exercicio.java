@@ -8,7 +8,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
-public class Exercicio extends Application {
+public class janelaContatos extends Application {
 	
 	@Override
 	public void start(Stage stage) throws Exception {
