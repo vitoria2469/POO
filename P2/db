@@ -6,3 +6,8 @@ c:\users\amuly>mysql -u root -p
 mariadb xxxxx> USE cadastrodb;
 
 mariadb cadastrodb> SHOW TABLES;
+
+
+
+private static final String DB_PASS = "alunofatec";
+    private static final String DB_URL = "jdbc:mariadb://localhost:3307/cadastrodb?allowPublicKeyRetrieval=true";
