@@ -1,0 +1,8 @@
+c:\users\amuly>mysql -u root -p
+  senha: 123456
+
+    mariadb xxxxx> SHOW DATABASE;
+
+mariadb xxxxx> USE cadastrodb;
+
+mariadb cadastrodb> SHOW TABLES;
